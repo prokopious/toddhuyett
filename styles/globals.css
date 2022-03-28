@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  font-family: Helvetica;
+}
+#ab {
+  max-width: 500px;
+}
+#git {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #212427;
+  font-size: 16px;
+}
+
+
+h3 {
+  color: #212427;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+p {
+  color: #212427;
+}
+a {
+  text-decoration: none;
+}
+h4 {
+  padding: 0;
+  margin: 0;
+}
+h2 {
+  margin-top: 0;
+  padding-top: 0;
+  color: #212427;
+  margin-top: -10px;
+
+}
+h1 {
+  margin-bottom: 0;
+  color: #272727;
+}
+#cont {
+  margin: auto;
+  padding: auto;
+}
+
+
+a {
+  font-size: calc(16px + 0.1vw);
+  color: #212427;
+  margin-left: 0px;
+  font-weight: 700;
+}
+.boxc {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.boxb {
+  color: #212427;
+  padding-top: 5px;
+}
+.boxc {
+  color: #212427;
+  font-size: calc(15px + 0.1vw);
+}
+.nameBox {
+  padding-bottom: 0px;
+  padding-left: 40px;
+  padding-top: 0px;
+}
+header {
+  align-items: center;
+  padding-left: 40px;
+  display: flex;
+  height: 70px;
+  border-radius: 2px;
+  border-bottom: 1px solid rgba(36, 36, 36, 0.096);
+}
+.blue:hover {
+  color: blue;
+}
+#git:hover {
+  color: blue;
+}
+ul {
+  padding-left: 0;
+}
+a:hover {
+  color: blue;
+}
+
+hr {
+  color: rgb(0, 0, 0);
+}
+
+@media only screen and (max-width: 960px) {
+ 
+  .nameBox {
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin: 0;
+  }
+  header {
+    padding: 20px;
+    margin-top: 0px;
+  }
+}
