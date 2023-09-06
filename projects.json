@@ -19,7 +19,7 @@
   },
   {
     "title": "React frontend for produce business.",
-    "url": "shopify-alpha.vercel.app",
+    "url": "https://shopify-alpha.vercel.app/",
     "repo": "https://github.com/prokopious/shopify",
     "description": "Next.js frontend with a Shopify backend."
   }
