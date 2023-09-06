@@ -1,21 +1,15 @@
 [
   {
-    "title": "Selenium testing playground.",
-    "url": "https://ubiquitous-genie-4ee8f3.netlify.app",
-    "repo": "https://github.com/prokopious/seleniumFrontend",
-    "description": "REST API to handle remote Selenium tests."
+    "title": "Selenium Python test suite.",
+    "url": "https://github.com/prokopious/selenium-python",
+    "repo": "https://github.com/prokopious/selenium-python",
+    "description": "Selenium Python with JavaScript polling functions."
   },
   {
-    "title": "Bakery site built with React, Stripe, and a serverless AWS backend.",
-    "url": "https://determined-leakey-9c05aa.netlify.app/",
+    "title": "React bakery site with Spring backend.",
+    "url": "hanover-p1gu5igbo-prokopious.vercel.app",
     "repo": "https://github.com/prokopious/hanover",
-    "description": "I built this with AWS Lambda and an AppSync GraphQL server."
-  },
-  {
-    "title": "E-commerce site with MySQL and Spring Boot backend.",
-    "url": "https://shopify-gt8idh9sz-prokopious.vercel.app/",
-    "repo": "https://github.com/prokopious/shopify",
-    "description": "The Java backend handles the contact form."
+    "description": "Spring REST API with Next.js and Stripe for payments."
   },
   {
     "title": "Unit tests for a Java security app.",
@@ -24,21 +18,9 @@
     "description": "This code was written for a Udacity Java course."
   },
   {
-    "title": "Classic Node.js CRUD app for airport departures.",
-    "url": "https://upbeat-ardinghelli-ca088b.netlify.app/",
-    "repo": "https://github.com/prokopious/departures",
-    "description": "This includes a MySQL database."
-  },
-  {
-    "title": "TensorFlow.js woodpecker classifier.",
-    "url": "https://lo-ips.herokuapp.com/",
-    "repo": "https://github.com/tmhuyett/lo-ips",
-    "description": "This is a simple image-classification tool."
-  },
-  {
-    "title": "Admin site for bakery.",
-    "url": "https://main.d1m1687zph9ts8.amplifyapp.com/",
-    "repo": "https://github.com/prokopious/admin4",
-    "description": "This is a custom serverless CMS to manage orders and inventory."
+    "title": "React frontend for produce business.",
+    "url": "shopify-gt8idh9sz-prokopious.vercel.app",
+    "repo": "https://github.com/prokopious/shopify",
+    "description": "Next.js frontend with a Shopify backend."
   }
 ]
