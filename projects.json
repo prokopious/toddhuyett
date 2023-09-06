@@ -7,7 +7,7 @@
   },
   {
     "title": "React bakery site with Spring backend.",
-    "url": "hanover-p1gu5igbo-prokopious.vercel.app",
+    "url": "https://hanover.vercel.app/",
     "repo": "https://github.com/prokopious/hanover",
     "description": "Spring REST API with Next.js and Stripe for payments."
   },
