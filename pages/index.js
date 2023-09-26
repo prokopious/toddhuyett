@@ -12,6 +12,7 @@ const Index = () => {
             <div className={styles.nameBox}>
               <h1 className={styles.title}>Todd Huyett</h1>
               <h2 className={styles.hhh}>Software Developer</h2>
+              <div className={styles.email}>toddhuyett@gmail.com</div>
               <p id={styles.ab}>
                 Each of the portfolio items listed below—where
                 applicable—contains a link to a simple frontend to demonstrate
