@@ -17,8 +17,8 @@ const Index = () => {
                 Each of the portfolio items listed below—where
                 applicable—contains a link to a simple frontend to demonstrate
                 the implementation of the various technologies noted in its
-                description. Each listing also contains a GitHub repository
-                link.
+                description. Each listing, unless it's a closed-source project, also contains a GitHub repository
+                link. The JavaScript projects are from my early days of programming. The Selenium projects and bots are newer.
               </p>
             </div>
             <main>

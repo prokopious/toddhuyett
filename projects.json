@@ -1,5 +1,16 @@
 [
-
+  {
+    "title": "Selenium Java bot for automating Dice.com job applications.",
+    "url": "",
+    "repo": "",
+    "description": "This is a closed-source project, but I would be happy to discuss it in the context of an interview."
+  },
+  {
+    "title": "Selenium Python bot for automating LinkedIn job applications.",
+    "url": "",
+    "repo": "",
+    "description": "Like the Dice bot, this is closed source, but demonstrates my automation skills. I would be happy to demo it in an interview."
+  },
   {
     "title": "Selenium Python test suite.",
     "url": "https://github.com/prokopious/selenium-python",
@@ -24,5 +35,6 @@
     "repo": "https://github.com/prokopious/shopify",
     "description": "Next.js frontend with a Shopify backend."
   }
+  
  
 ]
