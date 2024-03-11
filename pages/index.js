@@ -11,7 +11,7 @@ const Index = () => {
           <Layout>
             <div className={styles.nameBox}>
               <h1 className={styles.title}>Todd Huyett</h1>
-              <h2 className={styles.hhh}>Software Developer</h2>
+              <h2 className={styles.hhh}>QA Automation Engineer</h2>
               <div className={styles.email}>toddhuyett@gmail.com</div>
               <p id={styles.ab}>
                 Each of the portfolio items listed below—where

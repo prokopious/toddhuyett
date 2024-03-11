@@ -12,22 +12,10 @@
     "description": "Like the Dice bot, this is closed source, but demonstrates my automation skills. I would be happy to demo it in an interview."
   },
   {
-    "title": "Selenium Python test suite.",
-    "url": "https://github.com/prokopious/selenium-python",
-    "repo": "https://github.com/prokopious/selenium-python",
-    "description": "Selenium Python with JavaScript polling functions."
-  },
-  {
     "title": "React bakery site with Spring backend.",
     "url": "https://hanover.vercel.app/",
     "repo": "https://github.com/prokopious/hanover",
-    "description": "Spring REST API with Next.js and Stripe for payments."
-  },
-  {
-    "title": "Unit tests for a Java security app.",
-    "url": "https://github.com/prokopious/project/blob/main/starter/starter/catpoint-parent/securityService/src/test/java/com/udacity/catpoint/security/service/SecurityServiceTest.java",
-    "repo": "https://github.com/prokopious/project/blob/main/starter/starter/catpoint-parent/securityService/src/test/java/com/udacity/catpoint/security/service/SecurityServiceTest.java",
-    "description": "This code was written for a Udacity Java course."
+    "description": "This is a project from my early days of programming. It consists of a Spring REST API with Next.js and Stripe for payments."
   },
   {
     "title": "React frontend for produce business.",
@@ -36,5 +24,4 @@
     "description": "Next.js frontend with a Shopify backend."
   }
   
- 
 ]
