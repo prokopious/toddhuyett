@@ -13,15 +13,15 @@ export default function Header() {
           role="navigation"
           aria-label="main navigation"
         >
-          <Link href="https://github.com/prokopious">
-            <a className={styles.nava} id="git">
+          <Link className={styles.nava} id="git" href="https://github.com/prokopious">
+          
               GitHub
-            </a>
+         
           </Link>
-          <Link href="https://www.linkedin.com/in/todd-huyett-2596a892/">
-            <a className={styles.nava} id="git">
+          <Link className={styles.nava} id="git" href="https://www.linkedin.com/in/todd-huyett-2596a892/">
+         
               LinkedIn
-            </a>
+       
           </Link>
         </nav>
       </header>

@@ -23,16 +23,16 @@ export default function PostList({ posts }) {
                 <div>
                   <div className="boxa">
                     <Link href={{ pathname: `${post.url}` }} target="_blank">
-                      <a>{post.title}</a>
+                   {post.title}
                     </Link>
                   </div>
                   <div className="boxb">{post.description}</div>
                 </div>
                 <div className="boxc">
                   <Link href={{ pathname: `${post.repo}` }}>
-                    <a>
+                 
                       <AiOutlineGithub />
-                    </a>
+              
                   </Link>
                 </div>
               </div>
